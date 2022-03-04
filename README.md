@@ -7,11 +7,11 @@ This depository was to created to practice the fundamentals of Github. *Hello Wo
 ## How to Run Program
 This code is written in the Python coding language.
 
-`a=int(input("Enter any sequence"))
-b=int(input("Enter any sequence"))
-c=int(input("Enter any sequence"))
+`a=int(input("Enter any sequence"))`
+`b=int(input("Enter any sequence"))`
+`c=int(input("Enter any sequence"))`
 
-Area=0.25*((a+ b+c)*(-a+b+c)*(a-b+c)*(a+b-c))**.5`
+`Area=0.25*((a+ b+c)*(-a+b+c)*(a-b+c)*(a+b-c))**.5`
 
 ## Files Used
 - No data files utilized in this project. 
