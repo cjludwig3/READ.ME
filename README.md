@@ -8,7 +8,8 @@ This depository was to created to practive the fundamentals of Github. *Hello Wo
 
 
 ## Files Used
-
+- No data files utilized in this project. 
+- Example data file: [U.S. Food Imports](https://catalog.data.gov/dataset/u-s-food-imports)
 
 ## Additional Documentation
 
