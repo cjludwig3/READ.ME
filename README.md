@@ -2,7 +2,7 @@
 *Hello World Sample*
 
 ## Description
-This depository was to created to practive the fundamentals of Github. *Hello World Sample* contains some personal information about myself. 😄
+This depository was to created to practice the fundamentals of Github. *Hello World Sample* contains some personal information about myself. 😄
 
 ## How to Run Program
 
